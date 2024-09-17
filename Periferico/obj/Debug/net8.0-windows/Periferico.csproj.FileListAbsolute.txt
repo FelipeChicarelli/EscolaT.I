@@ -1,0 +1,16 @@
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\bin\Debug\net8.0-windows\Periferico.exe
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\bin\Debug\net8.0-windows\Periferico.deps.json
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\bin\Debug\net8.0-windows\Periferico.runtimeconfig.json
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\bin\Debug\net8.0-windows\Periferico.dll
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\bin\Debug\net8.0-windows\Periferico.pdb
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.Form1.resources
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.csproj.GenerateResource.cache
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.GeneratedMSBuildEditorConfig.editorconfig
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.AssemblyInfoInputs.cache
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.AssemblyInfo.cs
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.csproj.CoreCompileInputs.cache
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.dll
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\refint\Periferico.dll
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.pdb
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\Periferico.genruntimeconfig.cache
+D:\backup Felipe\documentos\Faculdade\Prova\faculdade\Periferico\obj\Debug\net8.0-windows\ref\Periferico.dll
